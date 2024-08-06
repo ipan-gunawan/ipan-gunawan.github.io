@@ -1,0 +1,244 @@
+body .container {
+  width: 300px;
+  margin: 50px auto;
+  border: 2px solid #3b386a;
+  background-color: #abefdd;
+  border-radius: 30px;
+}
+
+body .container .header {
+  margin-left: 10px;
+  font-family: arial;
+}
+
+body .container .nav ul li {
+  display: inline-block;
+  font-size: 13px;
+  margin-right: 5px;
+}
+
+body .container .nav {
+  margin-left: -30px;
+}
+
+body .container .hero img {
+  width: 300px;
+  height: 200px;
+  border-top: 2px solid #3b386a;
+  border-bottom: 2px solid #3b386a;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: arial Sans-Serif;
+  color: #3b386a;
+  background-color: #ededed;
+}
+
+body .container .header h1 {
+  margin-bottom: -10px;
+}
+
+body .container .nav ul li a {
+  text-decoration: none;
+  color: #3b386a;
+  font-weight: bold;
+}
+
+body .container .main h2 {
+  margin-bottom: -10px;
+}
+
+body .container .main p {
+  margin-right: 10px;
+  text-align: justify;
+}
+
+body .container .main .aboutme {
+  border-bottom: 2px solid #3b386a;
+  margin-left: 0px;
+}
+
+body .container .main .myproduct {
+  border-bottom: 2px solid #3b386a;
+}
+
+body .container .main .contact {
+  border-bottom: 2px solid #3b386a;
+}
+
+body .container .main .aboutme h2 {
+  margin-left: 10px;
+}
+
+body .container .main .aboutme #aboutme {
+  margin-left: 10px;
+}
+
+body .container .footer h5 {
+  margin: auto;
+}
+
+body .container .myproduct  img {
+  width: 250px;
+  margin-left: 23px;
+  background-color: #a7cbea;
+  border-radius: 30px;
+  border: 2px solid #3b386a;
+}
+
+body .container .myproduct h2 {
+  margin: 10px 0px 10px 10px;
+}
+
+body .container .main .myproduct #item {
+  width: 250px;
+  background-color: #a7cbea;
+  text-align: center;
+  border: 2px solid #3b386a;
+  border-radius: 30px;
+  margin: 5px auto 30px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body .container .main .myproduct #item h3 {
+  margin: 10px;
+}
+
+body .container .main .myproduct #item2 {
+  width: 250px;
+  background-color: #a7cbea;
+  text-align: center;
+  border: 2px solid #3b386a;
+  border-radius: 30px;
+  margin: 5px auto 30px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body .container .main .myproduct #item2 h3 {
+  margin: 10px;
+}
+
+body .container .main .myproduct #item3 {
+  width: 250px;
+  background-color: #a7cbea;
+  text-align: center;
+  border: 2px solid #3b386a;
+  border-radius: 30px;
+  margin: 5px auto 30px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body .container .main .myproduct #item3 h3 {
+  margin: 10px;
+}
+
+body .container .contact h2 {
+  margin-left: 10px;
+}
+
+body .container .contact .form {
+  width: 250px;
+  background-color: white;
+  margin: 20px auto 30px;
+  border: 2px solid #3b386a;
+  border-radius: 10px;
+  padding: 10px;
+  font-weight: bold;
+}
+
+body .container .contact h2 {
+  margin-bottom: -10px;
+}
+
+body .container .contact .form tr td #order, #name, #email {
+  width: 170px;
+  font-weight: bold;
+  font-size: 15px;
+  color: #3b386a;
+  border: 2px solid #3b386a;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  background-color: #a7cbea;
+  padding: 5px;
+}
+
+body .container .contact .form tr td #message {
+  width: 170px;
+  height: 170px;
+  font-weight: bold;
+  font-size: 15px;
+  color: #3b386a;
+  border: 2px solid #3b386a;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  background-color: #a7cbea;
+  padding: 5px;
+  text-align: justify;
+}
+
+body .container .contact .form tr td #submit {
+  width: 70px;
+  font-weight: bold;
+  font-size: 15px;
+  color: #3b386a;
+  border: 2px solid #3b386a;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  background-color: #a7cbea;
+  padding: 5px;
+  margin-left: 90px;
+}
+
+body .container .main .footer {
+  width: 250px;
+  background-color: white;
+  margin: 15px auto 15px;
+  padding: 5px;
+  border: 2px solid #3b386a;
+  border-radius: 10px;
+}
+
+body .container .main .footer h5 {
+  text-align: center;
+  margin-bottom: 2px;
+}
+
+body .container .main .backtop {
+  width: 250px;
+  background-color: #a7cbea;
+  margin: 30px auto 30px;
+  border: 2px solid #3b386a;
+  border-radius: 30px;
+}
+
+body .container .main .backtop a h3 {
+  color: #3b386a;
+  text-align: center;
+  margin: 0 auto 0;
+  padding: 5px;
+}
+
+body .container .main .backtop a {
+  text-decoration: none;
+}
+
+body .container .main .addition {
+  border-bottom: 2px solid #3b386a;
+}
+
+body .container .main .footer a img {
+  width: 20px;
+}
+
+body .container .main .footer a {
+  display: inline-block;
+}
+
+body .container .main .footer .sosmed {
+  width: 44px;
+  margin: 10px auto 0;
+}
